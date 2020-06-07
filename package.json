@@ -19,6 +19,6 @@
   "homepage": "https://github.com/riicardojs/botbar#readme",
   "dependencies": {
     "discord.js": "^12.2.0",
-    "request": "^2.88.2"
+    "nodemon": "^2.0.4"
   }
 }
